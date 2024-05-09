@@ -1,0 +1,1 @@
+import{ay as r}from"./index-DdFeKO3n.js";function s(){const a=r();return{navigateTo:t=>{a.push(t)}}}const u=(a,o)=>{let t=[];for(let e=0;e<o;e++)t.push(`/images/${a}/${e}.png`);return t};export{u as i,s as u};
